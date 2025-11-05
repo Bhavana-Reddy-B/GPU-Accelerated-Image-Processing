@@ -1,7 +1,6 @@
 # ⚡ GPU-Accelerated Image Processing Pipeline
 
 [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 ## 🧠 Overview
 
